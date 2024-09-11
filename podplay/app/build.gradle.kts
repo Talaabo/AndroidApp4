@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.trios2024amdj.podplay"
+        applicationId = "com.trios2024ammy.podplay"
         minSdk = 22
         targetSdk = 34
         versionCode = 1
